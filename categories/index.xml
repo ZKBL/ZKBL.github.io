@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - 分类 - 仲恺不冷的个人博客</title>
-        <link>http://example.org/categories/</link>
+        <link>http://blog.52kt.top/categories/</link>
         <description>Categories - 分类 - 仲恺不冷的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>clownlooming@outlook.com (仲恺不冷)</managingEditor>
-            <webMaster>clownlooming@outlook.com (仲恺不冷)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>clownlooming@outlook.com (仲恺不冷)</webMaster><atom:link href="http://blog.52kt.top/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
